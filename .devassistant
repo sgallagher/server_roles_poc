@@ -1,0 +1,9 @@
+devassistant_version: 0.8.0
+original_kwargs:
+  eclipse: /home/bos/sgallagh/workspace
+  name: /home/bos/sgallagh/workspace/server_roles_poc
+  venv: true
+  vim: true
+subassistant_path:
+- python
+- lib
